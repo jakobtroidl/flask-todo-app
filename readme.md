@@ -1,9 +1,6 @@
-### Simple Flask Todo App
-
 #### Setup Instructions for Priyan
 
-
-Clone repository
+- Clone repository
 ```
 git clone https://github.com/jakobtroidl/flask-todo-app.git
 cd flask-todo-app
