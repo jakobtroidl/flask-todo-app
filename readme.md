@@ -5,7 +5,8 @@
 
 Clone repository
 ```
-git clone https://github.com/onurtacc/flask-todo-app.git
+git clone https://github.com/jakobtroidl/flask-todo-app.git
+cd flask-todo-app
 ```
 - Create and activate python virtual environment an install dependencies
 ```python
