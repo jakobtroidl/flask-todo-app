@@ -1,12 +1,25 @@
 ### Simple Flask Todo App
 
-#### Setup
-<hr>
+#### Setup Instructions for Priyan
 
-- Create python3 virtual environment and activate it (python3 -m venv venv)
-- Run 'pip install -r requirements.txt' on terminal
-- Run app.py on terminal for start local server
 
-<hr>
+Clone repository
+```
+git clone https://github.com/onurtacc/flask-todo-app.git
+```
+- Create and activate python virtual environment an install dependencies
+```python
+python -m venv flask_app_env
+source flask_app_env/bin/activate
+pip install -r requirements.txt
+```
+
+- Run the App
+```
+python app.py
+```
+open http://127.0.0.1:5000/
+
+
 
 ![todo](templates/todo.png)
